@@ -1,0 +1,4 @@
+projek berisikan tentang pemrograman web dengan menggunakan laravel. flow dari projek ini adalah:
+brosur -> penawaran custom -> home login dan register -> dashboard -> produk -> logout
+
+projek ini masih membutuhkan beberapa pengembangan.
